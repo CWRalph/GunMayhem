@@ -1,0 +1,24 @@
+Bullets:
+    Segment 1: Name
+    Segment 2: speed (1% - 100%)
+    Segment 3: bulletWidth (10 - 100px)
+    Segment 4: knockback (from 1% to 100%)
+    Segment 5: soundKey
+    Segment 6: lifespan (if nessacary - in seconds)
+
+Guns:
+    Segment 1: 1 - Primary Weapon / 2 - Secondary Weapon
+    Segment 2: Name
+    Segment 3: rateOfFire (100% no delay - 0% 1sec of delay)
+    Segment 4: ammoCount (10% - 100%) over 100 is the ammo capacity
+    Segment 5: weight (from 0% - 100%)
+    Segment 6: recoil (from 0% - 100%)
+
+Levels:
+    Line 1:       
+        Seg 2: number of platforms
+        xPositions for the palyers to initially spawn
+    Line 2 - N:
+        Seg1: x Position
+        Seg2: y Postion
+        Seg3: platform length

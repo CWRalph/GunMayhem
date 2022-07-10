@@ -1,0 +1,12 @@
+#define ULL unsigned long long
+#define gravity 820
+#define hitboxHeight 83.f
+#define PlayerSpeed 480
+#define UI_YPos 830
+
+#define K_Player "Player"
+#define K_UI "UI"
+#define K_GREY_SMG "GreySMG"
+#define K_COOL_PISTOL "CoolPistol"
+#define K_BULLET "Bullet"
+#define K_UI_FONT "UIFont"

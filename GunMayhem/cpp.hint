@@ -1,0 +1,16 @@
+#define screenHeight
+#define screenWidth
+#define floory
+#define ULL
+#define gravity 
+#define hitboxHeight 
+#define PlayerSpeed 
+#define UI_YPos 
+
+#define K_Player 
+#define K_UI 
+#define K_GREY_SMG 
+#define K_COOL_PISTOL
+#define K_BULLET
+#define K_UI_FONT
+#define K_CRATE

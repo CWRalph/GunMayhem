@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9C7FDCE-D52A-8D73-7EB0-C5296AF258F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Headers">
+      <UniqueIdentifier>{43960427-710f-4cfd-b50d-931b10fe9862}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CPPs">
+      <UniqueIdentifier>{9c691617-39ee-49ef-90e9-6170f52da64d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Headers\Classes">
+      <UniqueIdentifier>{a75ecc8a-c77b-4445-b457-dfe3e38f35c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Headers\Utils">
+      <UniqueIdentifier>{adcefa95-3b95-42bd-a3e9-343fde512e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Headers\Enums">
+      <UniqueIdentifier>{dd3c6732-1bde-4066-9509-822fdec26242}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CPPs\Classes">
+      <UniqueIdentifier>{2516ec57-0dbc-42bd-80c0-dfc15e76f962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TextFiles">
+      <UniqueIdentifier>{594981e1-a164-4dd2-83d5-29fab5db919e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{28f1c91b-032e-4581-8610-639230335719}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TextFiles\GameFiles">
+      <UniqueIdentifier>{eb906e24-be6e-4c3d-b549-abf9de10d283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\TextFiles\Documentation">
+      <UniqueIdentifier>{e5590acf-2538-41ad-8175-9b65aba7872e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Bullet.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Button.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Clicker.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Grenade.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Gun.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Item.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Perk.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Player.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Crate.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Game.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SymbolDefines.cpp" />
+    <ClCompile Include="Classes\Level.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Explosion.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Banner.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\TextButton.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes\Controls.cpp">
+      <Filter>Source Files\CPPs\Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utils\Direction.h">
+      <Filter>Source Files\Headers\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\VariableType.h">
+      <Filter>Source Files\Headers\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Collision.h">
+      <Filter>Source Files\Headers\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Bullet.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Button.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Clicker.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Grenade.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Gun.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Item.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Perk.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Player.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Crate.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Utils.h">
+      <Filter>Source Files\Headers\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\IO.h">
+      <Filter>Source Files\Headers\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\doublyLinkedlist.h">
+      <Filter>Source Files\Headers\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\LoadAssests.h">
+      <Filter>Source Files\Headers\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Defines.h">
+      <Filter>Source Files\Headers\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Game.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SymbolDefines.h" />
+    <ClInclude Include="Classes\Level.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Explosion.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Banner.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\TextButton.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\AILogic.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Classes\Controls.h">
+      <Filter>Source Files\Headers\Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Documentation\TextFileFormatting.txt">
+      <Filter>Source Files\TextFiles\Documentation</Filter>
+    </Text>
+    <Text Include="TextFiles\Bullets.txt">
+      <Filter>Source Files\TextFiles\GameFiles</Filter>
+    </Text>
+    <Text Include="TextFiles\Guns.txt">
+      <Filter>Source Files\TextFiles\GameFiles</Filter>
+    </Text>
+    <Text Include="Documentation\PlayerDrawing.txt">
+      <Filter>Source Files\TextFiles\Documentation</Filter>
+    </Text>
+    <Text Include="TextFiles\levels.txt">
+      <Filter>Source Files\TextFiles\GameFiles</Filter>
+    </Text>
+    <Text Include="TextFiles\Controls.txt">
+      <Filter>Source Files\TextFiles\GameFiles</Filter>
+    </Text>
+    <Text Include="TextFiles\Players.txt">
+      <Filter>Source Files\TextFiles\GameFiles</Filter>
+    </Text>
+    <Text Include="Documentation\PlayerMovementSchematics.txt">
+      <Filter>Source Files\TextFiles\Documentation</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+NULL 0 0 0 sPistol 0
+GreySMG 620 50 40 SMG  
+CheapSMG 800 35 25 SMG
+AssaultCarbine 650 60 50 AR
+BullpupMachineGun 600 55 70	AR
+ClassicAR 650 60 49	AR
+LongRangeAR	650	60 65 AR
+ReliableAR 650 60 60 AR
+TopLoadMachineGun 600 55 65 AR
+PoliceSMG 700 50 45	SMG
+TaticalSMG 750 45 25 SMG
+CompactAR 685 60 53	SMG
+AssaultShotgun 350 20 75 Shotgun 0.08 
+ChromeShotgun 350 20 80 Shotgun 0.08 
+StandardShotgun 350	20 76 Shotgun 0.08 
+StubyShotgun 350 20	55 Shotgun 0.08	
+BullpupSniper 525 85 90	Sniper
+RuggedSniper 525 85	70 Sniper
+SingleShotSniper 525 100 100 Sniper
+CoolPistol 425 35 30 sPistol
+FiftyEight 400 35 51 sPistol
+AngryCow 360 42 63 lPistol
+Glick 500 29 15	sPistol
+SandHawk 425 58 35 lPistol
+Snake 300 50 75 lPistol

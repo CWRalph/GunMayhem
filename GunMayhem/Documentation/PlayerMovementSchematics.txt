@@ -1,0 +1,4 @@
+single jump x distance: 130 * (horizantalVelocity / MAX_PLAYER_SPEED)
+double jump x distance 330 * (horizantalVelocity / MAX_PLAYER_SPEED)
+single jump y distance: 90
+double jump y distance: 180
